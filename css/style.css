@@ -1,0 +1,63 @@
+p {
+	
+}
+pre {
+	font-size: 15px;
+}
+.title {
+	font-size: 39.5px;
+	font-weight: bold;
+}
+.ex {
+	font-weight: bold;
+	font-size: 25px;
+}
+.text {
+	width: 1180px;
+	font-size: 20px;
+}
+.p {
+	background-color: blue;
+}
+.p1 {
+	background-color: yellow;
+}
+.blue {
+	background-color: blue;
+}
+.yellow {
+	background-color: yellow;
+}
+.no{
+	display: none;
+}
+.bl {
+	display: block;
+}
+.in {
+	display: inline;
+	border:1px; 
+	width: 50%;
+}
+.ib {
+	display: inline-block;
+	border: 1px solid blue;
+}
+.ib1{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+  	border: 1px solid blue;
+}
+.ib2{
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	border: 1px solid blue;
+}
+.ib3{
+	display: inline-block;
+	width: 100px;
+	height: 50px;
+	border: 1px solid blue;
+}
