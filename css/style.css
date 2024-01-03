@@ -189,7 +189,7 @@ body {
 }
 
 .contacts-container, .tech-skills-container, .soft-skills-container {
-    margin: 48px 0 0 40px;
+    margin: 48px 0 40px 40px;
 }
 
 .sidebar-title {
